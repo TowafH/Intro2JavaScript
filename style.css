@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1, h2, h3, h4, h5  {
+  color: #4a72e8;
+}
+body {
+  background-color: #6ebedd;
+}
+button {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: mediumvioletred;
+  border-radius: 8px;
+  border-color: black;
+  font-size: 24px;
+  background-color: lightblue;
+}
+p {
+  font-size: 22px;
+  color: #3152b4;
+}
